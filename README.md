@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi I'm Vivian! 👋
+I am currently pursuing a BS in Biotechnology with an emphasis in Bioinformatics. 
 <!--
 **vynni08/vynni08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+- Check out my progress on freeCodeCamp!
+- Always ready to learn more and improve
+- Currently learning Python and R
+- Interested in exploring computational biology
