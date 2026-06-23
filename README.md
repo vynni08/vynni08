@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-- Check out my progress on freeCodeCamp!
+- Check out my progress on freeCodeCamp https://www.freecodecamp.org/vvnlee08!
 - Always ready to learn more and improve
 - Currently learning Python and R
 - Interested in exploring computational biology
